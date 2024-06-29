@@ -31,5 +31,8 @@ Completed roads:
 - Cody-Cedar (Spring 2024)
 - Lendrum Creek (Spring 2024)
 - Krao Creek (Spring 2024)
+- Queens Bay (Summer 2024)
+- Balfour Face (Summer 2024)
+- Redfish (Summer 2024)
 
 I am focused mainly on FSRs in the Kootenay Lake area because that is where I work, travel, and recreate. Contact me if there is interest to expand this or include other geographic areas.
