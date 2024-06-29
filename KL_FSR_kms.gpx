@@ -10,6 +10,24 @@
 <wpt lat="49.8220968" lon="-116.9237555">
   <name>8</name>
 </wpt>
+<wpt lat="49.6237691" lon="-117.0306411">
+  <name>2</name>
+</wpt>
+<wpt lat="49.6276398" lon="-117.0409357">
+  <name>4</name>
+</wpt>
+<wpt lat="49.6331506" lon="-117.0474632">
+  <name>6</name>
+</wpt>
+<wpt lat="49.6361569" lon="-117.0474357">
+  <name>7</name>
+</wpt>
+<wpt lat="49.6393995" lon="-117.0570726">
+  <name>8</name>
+</wpt>
+<wpt lat="49.6932934" lon="-116.9456686">
+  <name>6</name>
+</wpt>
 <wpt lat="49.7748513" lon="-116.9234626">
   <name>3</name>
 </wpt>
@@ -42,6 +60,24 @@
 </wpt>
 <wpt lat="49.7916634" lon="-116.9276866">
   <name>7</name>
+</wpt>
+<wpt lat="49.6431043" lon="-116.9741937">
+  <name>4</name>
+</wpt>
+<wpt lat="49.6465954" lon="-116.9709064">
+  <name>5</name>
+</wpt>
+<wpt lat="49.6419301" lon="-116.9849631">
+  <name>6</name>
+</wpt>
+<wpt lat="49.63968" lon="-116.9970801">
+  <name>7</name>
+</wpt>
+<wpt lat="49.6669921" lon="-116.9243766">
+  <name>0</name>
+</wpt>
+<wpt lat="49.6903483" lon="-116.9418128">
+  <name>6</name>
 </wpt>
 <wpt lat="49.7778737" lon="-116.9499862">
   <name>12</name>
@@ -137,6 +173,42 @@
   <name>2</name>
 </wpt>
 <wpt lat="49.8003045" lon="-116.9016199">
+  <name>1</name>
+</wpt>
+<wpt lat="49.6742972" lon="-116.9533323">
+  <name>9</name>
+</wpt>
+<wpt lat="49.6773883" lon="-116.9493691">
+  <name>8</name>
+</wpt>
+<wpt lat="49.6852681" lon="-116.9428959">
+  <name>7</name>
+</wpt>
+<wpt lat="49.6918833" lon="-116.9340766">
+  <name>5</name>
+</wpt>
+<wpt lat="49.6879425" lon="-116.9244353">
+  <name>4</name>
+</wpt>
+<wpt lat="49.6816566" lon="-116.9274803">
+  <name>3</name>
+</wpt>
+<wpt lat="49.673478" lon="-116.9306738">
+  <name>2</name>
+</wpt>
+<wpt lat="49.6678282" lon="-116.9309033">
+  <name>1</name>
+</wpt>
+<wpt lat="49.6240038" lon="-117.0181502">
+  <name>1</name>
+</wpt>
+<wpt lat="49.6554849" lon="-117.0671847">
+  <name>10</name>
+</wpt>
+<wpt lat="49.6367355" lon="-116.9818857">
+  <name>3</name>
+</wpt>
+<wpt lat="49.6323281" lon="-116.9722203">
   <name>1</name>
 </wpt>
 </gpx>
