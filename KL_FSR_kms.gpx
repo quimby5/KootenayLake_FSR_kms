@@ -1,6 +1,18 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.0.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<metadata><bounds minlat="49.609930400000003" minlon="-117.132165599999993" maxlat="49.822096799999997" maxlon="-116.901619900000000"/></metadata>              
+<metadata><bounds minlat="49.609930400000003" minlon="-117.406200100000007" maxlat="50.023709099999998" maxlon="-116.901619900000000"/></metadata>              
+<wpt lat="50.0073702" lon="-117.2695184">
+  <name>1</name>
+</wpt>
+<wpt lat="49.863943" lon="-117.4062001">
+  <name>0</name>
+</wpt>
+<wpt lat="50.0019077" lon="-117.2599704">
+  <name>2</name>
+</wpt>
+<wpt lat="49.9875958" lon="-117.2453718">
+  <name>4</name>
+</wpt>
 <wpt lat="49.8083146" lon="-116.9139186">
   <name>4</name>
 </wpt>
@@ -61,6 +73,15 @@
 <wpt lat="49.7916634" lon="-116.9276866">
   <name>7</name>
 </wpt>
+<wpt lat="50.0237091" lon="-117.0887931">
+  <name>2</name>
+</wpt>
+<wpt lat="49.8606385" lon="-117.3997239">
+  <name>1</name>
+</wpt>
+<wpt lat="49.82994" lon="-117.3367351">
+  <name>7</name>
+</wpt>
 <wpt lat="49.6431043" lon="-116.9741937">
   <name>4</name>
 </wpt>
@@ -79,11 +100,20 @@
 <wpt lat="49.6903483" lon="-116.9418128">
   <name>6</name>
 </wpt>
+<wpt lat="49.8189538" lon="-117.304408">
+  <name>10</name>
+</wpt>
 <wpt lat="49.7778737" lon="-116.9499862">
   <name>12</name>
 </wpt>
 <wpt lat="49.7883733" lon="-116.9395705">
   <name>10</name>
+</wpt>
+<wpt lat="49.8190093" lon="-116.909568">
+  <name>5</name>
+</wpt>
+<wpt lat="49.8114006" lon="-116.9094017">
+  <name>4</name>
 </wpt>
 <wpt lat="49.6184174" lon="-117.1296832">
   <name>3</name>
@@ -210,5 +240,41 @@
 </wpt>
 <wpt lat="49.6323281" lon="-116.9722203">
   <name>1</name>
+</wpt>
+<wpt lat="49.7991617" lon="-116.9419494">
+  <name>5</name>
+</wpt>
+<wpt lat="49.8272923" lon="-116.910941">
+  <name>6</name>
+</wpt>
+<wpt lat="50.0198007" lon="-117.0916683">
+  <name>1</name>
+</wpt>
+<wpt lat="49.8109401" lon="-117.2829822">
+  <name>12</name>
+</wpt>
+<wpt lat="49.8149244" lon="-117.2936989">
+  <name>11</name>
+</wpt>
+<wpt lat="49.8221609" lon="-117.3177315">
+  <name>9</name>
+</wpt>
+<wpt lat="49.8357543" lon="-117.3493052">
+  <name>6</name>
+</wpt>
+<wpt lat="49.8413643" lon="-117.3578292">
+  <name>5</name>
+</wpt>
+<wpt lat="49.8484506" lon="-117.3657954">
+  <name>4</name>
+</wpt>
+<wpt lat="49.8524777" lon="-117.3777661">
+  <name>3</name>
+</wpt>
+<wpt lat="49.85643" lon="-117.3890153">
+  <name>2</name>
+</wpt>
+<wpt lat="49.995207" lon="-117.2520241">
+  <name>3</name>
 </wpt>
 </gpx>

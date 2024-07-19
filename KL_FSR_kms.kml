@@ -3,6 +3,22 @@
 <Document id="root_doc">
 <Folder><name>KL_FSR_kms</name>
   <Placemark>
+	<name>1</name>
+      <Point><coordinates>-117.2695184,50.0073702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0</name>
+      <Point><coordinates>-117.4062001,49.863943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+      <Point><coordinates>-117.2599704,50.0019077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+      <Point><coordinates>-117.2453718,49.9875958</coordinates></Point>
+  </Placemark>
+  <Placemark>
 	<name>4</name>
       <Point><coordinates>-116.9139186,49.8083146</coordinates></Point>
   </Placemark>
@@ -83,6 +99,18 @@
       <Point><coordinates>-116.9276866,49.7916634</coordinates></Point>
   </Placemark>
   <Placemark>
+	<name>2</name>
+      <Point><coordinates>-117.0887931,50.0237091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1</name>
+      <Point><coordinates>-117.3997239,49.8606385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+      <Point><coordinates>-117.3367351,49.82994</coordinates></Point>
+  </Placemark>
+  <Placemark>
 	<name>4</name>
       <Point><coordinates>-116.9741937,49.6431043</coordinates></Point>
   </Placemark>
@@ -107,12 +135,24 @@
       <Point><coordinates>-116.9418128,49.6903483</coordinates></Point>
   </Placemark>
   <Placemark>
+	<name>10</name>
+      <Point><coordinates>-117.304408,49.8189538</coordinates></Point>
+  </Placemark>
+  <Placemark>
 	<name>12</name>
       <Point><coordinates>-116.9499862,49.7778737</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>10</name>
       <Point><coordinates>-116.9395705,49.7883733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+      <Point><coordinates>-116.909568,49.8190093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+      <Point><coordinates>-116.9094017,49.8114006</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>3</name>
@@ -281,6 +321,54 @@
   <Placemark>
 	<name>1</name>
       <Point><coordinates>-116.9722203,49.6323281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+      <Point><coordinates>-116.9419494,49.7991617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+      <Point><coordinates>-116.910941,49.8272923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1</name>
+      <Point><coordinates>-117.0916683,50.0198007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+      <Point><coordinates>-117.2829822,49.8109401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+      <Point><coordinates>-117.2936989,49.8149244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+      <Point><coordinates>-117.3177315,49.8221609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+      <Point><coordinates>-117.3493052,49.8357543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+      <Point><coordinates>-117.3578292,49.8413643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+      <Point><coordinates>-117.3657954,49.8484506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+      <Point><coordinates>-117.3777661,49.8524777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+      <Point><coordinates>-117.3890153,49.85643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+      <Point><coordinates>-117.2520241,49.995207</coordinates></Point>
   </Placemark>
 </Folder>
 </Document></kml>
