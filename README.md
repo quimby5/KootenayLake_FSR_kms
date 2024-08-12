@@ -26,16 +26,18 @@ I am using an overpass query to extract the features with tag highway=milestone,
 This is a work in progress.  I am typically trying to travel one named FSR and collect all km markers at once, for that road.  This would include all spurs for that named FSR. 
 
 Completed roads:
-- Woodbury Mainline (Spring 2024)
-- Fletcher (Spring 2024)
-- Cody-Cedar (Spring 2024)
-- Lendrum Creek (Spring 2024)
-- Krao Creek (Spring 2024)
-- Queens Bay (Summer 2024)
-- Balfour Face (Summer 2024)
-- Redfish (Summer 2024)
-- Rossiter (Summer 2024)
-- Enterprise (Summer 2024)
+- Woodbury Mainline FSR (Spring 2024)
+- Fletcher FSR (Spring 2024)
+- Cody-Cedar FSR (Spring 2024)
+- Lendrum Creek FSR (Spring 2024)
+- Krao Creek FSR (Spring 2024)
+- Queens Bay FSR (Summer 2024)
+- Balfour Face FSR (Summer 2024)
+- Redfish FSR (Summer 2024)
+- Rossiter FSR (Summer 2024)
+- Enterprise FSR (Summer 2024)
 - Sandon-Cody Rd (Summer 2024)
+- Murray Creek FSR (Summer 2024)
+- Blue Ridge FSR (Summer 2024)
 
 I am focused mainly on FSRs in the Kootenay Lake area because that is where I work, travel, and recreate. Contact me if there is interest to expand this or include other geographic areas.
