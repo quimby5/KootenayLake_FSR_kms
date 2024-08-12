@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.0.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<metadata><bounds minlat="49.609930400000003" minlon="-117.406200100000007" maxlat="50.023709099999998" maxlon="-116.901619900000000"/></metadata>              
+<metadata><bounds minlat="49.609930400000003" minlon="-117.406200100000007" maxlat="50.050873600000003" maxlon="-116.901619900000000"/></metadata>              
 <wpt lat="50.0073702" lon="-117.2695184">
   <name>1</name>
 </wpt>
@@ -12,6 +12,12 @@
 </wpt>
 <wpt lat="49.9875958" lon="-117.2453718">
   <name>4</name>
+</wpt>
+<wpt lat="49.9155515" lon="-116.975659">
+  <name>1</name>
+</wpt>
+<wpt lat="49.9608946" lon="-116.9857853">
+  <name>1</name>
 </wpt>
 <wpt lat="49.8083146" lon="-116.9139186">
   <name>4</name>
@@ -73,6 +79,12 @@
 <wpt lat="49.7916634" lon="-116.9276866">
   <name>7</name>
 </wpt>
+<wpt lat="49.9350944" lon="-116.9789947">
+  <name>4</name>
+</wpt>
+<wpt lat="49.9437597" lon="-116.9826269">
+  <name>3</name>
+</wpt>
 <wpt lat="50.0237091" lon="-117.0887931">
   <name>2</name>
 </wpt>
@@ -99,6 +111,9 @@
 </wpt>
 <wpt lat="49.6903483" lon="-116.9418128">
   <name>6</name>
+</wpt>
+<wpt lat="50.0508736" lon="-117.1589944">
+  <name>2</name>
 </wpt>
 <wpt lat="49.8189538" lon="-117.304408">
   <name>10</name>
@@ -276,5 +291,14 @@
 </wpt>
 <wpt lat="49.995207" lon="-117.2520241">
   <name>3</name>
+</wpt>
+<wpt lat="49.9527005" lon="-116.9852715">
+  <name>2</name>
+</wpt>
+<wpt lat="50.0502932" lon="-117.1666896">
+  <name>1</name>
+</wpt>
+<wpt lat="49.7600936" lon="-116.9320098">
+  <name>5.5</name>
 </wpt>
 </gpx>

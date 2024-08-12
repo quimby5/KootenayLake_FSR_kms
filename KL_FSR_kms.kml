@@ -19,6 +19,14 @@
       <Point><coordinates>-117.2453718,49.9875958</coordinates></Point>
   </Placemark>
   <Placemark>
+	<name>1</name>
+      <Point><coordinates>-116.975659,49.9155515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1</name>
+      <Point><coordinates>-116.9857853,49.9608946</coordinates></Point>
+  </Placemark>
+  <Placemark>
 	<name>4</name>
       <Point><coordinates>-116.9139186,49.8083146</coordinates></Point>
   </Placemark>
@@ -99,6 +107,14 @@
       <Point><coordinates>-116.9276866,49.7916634</coordinates></Point>
   </Placemark>
   <Placemark>
+	<name>4</name>
+      <Point><coordinates>-116.9789947,49.9350944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+      <Point><coordinates>-116.9826269,49.9437597</coordinates></Point>
+  </Placemark>
+  <Placemark>
 	<name>2</name>
       <Point><coordinates>-117.0887931,50.0237091</coordinates></Point>
   </Placemark>
@@ -133,6 +149,10 @@
   <Placemark>
 	<name>6</name>
       <Point><coordinates>-116.9418128,49.6903483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+      <Point><coordinates>-117.1589944,50.0508736</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>10</name>
@@ -369,6 +389,18 @@
   <Placemark>
 	<name>3</name>
       <Point><coordinates>-117.2520241,49.995207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+      <Point><coordinates>-116.9852715,49.9527005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1</name>
+      <Point><coordinates>-117.1666896,50.0502932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5.5</name>
+      <Point><coordinates>-116.9320098,49.7600936</coordinates></Point>
   </Placemark>
 </Folder>
 </Document></kml>
