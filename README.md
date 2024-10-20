@@ -39,5 +39,10 @@ Completed roads:
 - Sandon-Cody Rd (Summer 2024)
 - Murray Creek FSR (Summer 2024)
 - Blue Ridge FSR (Summer 2024)
+- Meadow Mountain FSR (Summer 2024)
+- Kokanee Glacier FSR (Summer 2024)
+- Stenson Creek FSR (aka Retallack) (Fall 2024)
+- Keen Creek FSR (Fall 2024)
+  
 
 I am focused mainly on FSRs in the Kootenay Lake area because that is where I work, travel, and recreate. Contact me if there is interest to expand this or include other geographic areas.
